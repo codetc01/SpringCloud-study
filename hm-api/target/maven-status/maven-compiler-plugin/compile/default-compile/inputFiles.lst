@@ -1,0 +1,13 @@
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\ItemDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\client\itemClients.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\client\fallback\itemClientsFallbackFactory.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\client\cartClients.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\OrderFormDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\LoginFormDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\config\defaultClientConfig.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\PayOrderFormDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\PayApplyDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\client\orderClients.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\AddressDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\dto\OrderDetailDTO.java
+F:\hmall\hm-api\src\main\java\com\hmall\api\client\userClients.java

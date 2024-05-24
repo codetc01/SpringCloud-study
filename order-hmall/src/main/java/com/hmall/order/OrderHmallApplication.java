@@ -1,0 +1,16 @@
+package com.hmall.order;
+
+import com.hmall.api.config.defaultClientConfig;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.openfeign.EnableFeignClients;
+
+@SpringBootApplication
+@EnableFeignClients(basePackages = "com.hmall.api.client", defaultConfiguration = defaultClientConfig.class)
+public class OrderHmallApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(OrderHmallApplication.class, args);
+    }
+
+}

@@ -1,0 +1,11 @@
+server:
+  port: 8084
+hm:
+  db:
+    database: hm-trade
+  swagger:
+    description: 订单相关相关接口
+    package: com.hmall.order.controller
+feign:
+  okhttp:
+    enabled: true

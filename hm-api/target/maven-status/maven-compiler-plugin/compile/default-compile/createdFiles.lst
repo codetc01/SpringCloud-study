@@ -1,0 +1,17 @@
+com\hmall\api\client\fallback\itemClientsFallbackFactory.class
+com\hmall\api\config\defaultClientConfig$1.class
+com\hmall\api\dto\LoginFormDTO.class
+com\hmall\api\client\itemClients.class
+com\hmall\api\config\defaultClientConfig.class
+com\hmall\api\dto\OrderFormDTO.class
+com\hmall\api\dto\PayApplyDTO.class
+com\hmall\api\client\cartClients.class
+com\hmall\api\client\orderClients.class
+com\hmall\api\dto\AddressDTO.class
+com\hmall\api\dto\PayOrderFormDTO$PayOrderFormDTOBuilder.class
+com\hmall\api\client\fallback\itemClientsFallbackFactory$1.class
+com\hmall\api\dto\ItemDTO.class
+com\hmall\api\dto\OrderDetailDTO.class
+com\hmall\api\client\userClients.class
+com\hmall\api\dto\PayApplyDTO$PayApplyDTOBuilder.class
+com\hmall\api\dto\PayOrderFormDTO.class

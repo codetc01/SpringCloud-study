@@ -1,0 +1,11 @@
+server:
+  port: 8081
+hm:
+  db:
+    database: hm-item
+  swagger:
+    description: item相关接口
+    package: com.hmall.item.controller
+feign:
+  okhttp:
+    enabled: true # 开启转发连接池
